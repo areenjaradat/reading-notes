@@ -24,3 +24,6 @@ Your hardest times often lead to the greatest moments of your life. Keep going. 
 ― Roy T. Bennett, The Light in the Heart
 ```
 
+[this link for more information](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+
