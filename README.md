@@ -14,7 +14,7 @@ the mindest is how to growth your mind in a good way
 4. success of others:maybe sometimes you will get jealous from the other success,you don't have to be jealous you have to learn from them.
 
 ### ***how to keep yourself in a growth mindset***
-1. if you have some problems don't be frustrated face all your problems and challenge it.
+1. <span style="font-family: 'Lucida Console';">if you have some problems don't be frustrated face all your problems and challenge it.</span>
 ![don't be frusrated](https://www.askideas.com/wp-content/uploads/2017/01/Wave-goodbye-to-your-problems-and-put-a-smile-on-your-face.-God-Will-help-you.jpg)
 2. always improve your skills,look for new knowledge and ways will help you,chane your self to better.
 ![change](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ8KRFn_amISmAEYdE3I5LQU9CUBfVomVQXQ&usqp=CAU)
@@ -25,5 +25,3 @@ Your hardest times often lead to the greatest moments of your life. Keep going. 
 ```
 
 [this link for more information](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
-
-
