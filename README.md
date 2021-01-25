@@ -15,5 +15,8 @@ the mindest is how to growth your mind in a good way
 
 ### ***how to keep yourself in a growth mindset***
 1. if you have some problems don't be frustrated face all your problems and challenge it.
+![don't be frusrated](https://www.askideas.com/wp-content/uploads/2017/01/Wave-goodbye-to-your-problems-and-put-a-smile-on-your-face.-God-Will-help-you.jpg)
 2. always improve your skills,look for new knowledge and ways will help you,chane your self to better.
-3. if feeling yourself losing foucs try to remember that it's short term furstration it will be changing and rmember your achievement 
+![change](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ8KRFn_amISmAEYdE3I5LQU9CUBfVomVQXQ&usqp=CAU)
+3. if feeling yourself losing foucs try to remember that it's short term furstration it will be changing and remember your achievement
+
