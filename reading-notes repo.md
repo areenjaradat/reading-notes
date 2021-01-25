@@ -9,5 +9,5 @@ text with a few non-alphabetic characters thrown in*
 | Italic | * * | to make the text italicized |
 | Lists Unordered | * Item * Item  * Item * Item | this for unorderd list |
 | Lists ordered | 1 Item 2 Item 3Item 4 Item | this for orderd list |
-| links | ([name of page](put the link here)) | for shring links |
-| img | ([name the img](put the link of img )) | to add img |
+| links | [name of page] (put the link here) | for shring links |
+| img | [name the img] (put the link of img ) | to add img |
