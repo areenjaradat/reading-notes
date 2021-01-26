@@ -9,4 +9,4 @@ Table of content:
 | ---  | --- | 
 | Markdown.md | https://areenjaradat.github.io/reading-notes/Markdown | 
 | mindset | https://areenjaradat.github.io/reading-notes/mindset |
-| Remotes | areenjaradat.github.io/reading-notes/Remotes |
+| Remotes | https://areenjaradat.github.io/reading-notes/Remotes |
