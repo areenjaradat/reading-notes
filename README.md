@@ -7,6 +7,6 @@ Table of content:
 
 | files | Link |
 | ---  | --- | 
-| Markdown.md |  | 
-| mindset |  |
-| Remotes |  |
+| Markdown.md | https://areenjaradat.github.io/reading-notes/Markdown | 
+| mindset | https://areenjaradat.github.io/reading-notes/mindset |
+| Remotes | areenjaradat.github.io/reading-notes/Remotes |
