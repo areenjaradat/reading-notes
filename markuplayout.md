@@ -4,6 +4,8 @@
 will not be visible in the user's browser, you can add the text between these characters:
 <!-- comment goes here -->
 
+![comment](images/comment.jpg)
+
 ## ID Attribute
 Every HTML element can carry the id attribute. It is used to uniquely identify that element from other elements on the page.
 
