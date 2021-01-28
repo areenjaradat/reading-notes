@@ -16,6 +16,7 @@ This operator tests more than one condition.
 
 ## || LOGICAL OR:
 This operator tests at least one condition.
+
 ![or](images/or.png)
 
 | boolean | boolean |result|
@@ -27,6 +28,7 @@ This operator tests at least one condition.
 
 ## ! LOGICAL NOT:
 This operator takes a single Boolean value and invert it.
+
  ![not](images/not.png)
 | boolean | result|
 | ---  | ---|
@@ -37,7 +39,9 @@ This operator takes a single Boolean value and invert it.
 
 # LOOPS:
 Check a condition. If it returns true, a code block will run. Then the condition will be checked again and if it still returns true , the code block will run again .it repeats until the condition false.
+
  ![for](images/for.png)
+
 This is a for loop. the condition is a counter that count to ten. The result would write 0123456789 to the page. 
 
 If the variable (i)is less than ten, the code inside the curly braces is executed. Then counter is incremented.
@@ -56,9 +60,13 @@ condition again. (If it is true, the code runs again.)
 This loop will continue to run for as long as the condition in the parentheses is true. That
 condition is a counter indicating that, as long as the variable i remains less than 10, the
 statements in the subsequent code block should run.
+
  ![while](images/while.png)
+
 The result will be:
+
  ![result](images/result.png)
+ 
 When the loop has finished, the interpreter goes to the next line of code.
 
 
