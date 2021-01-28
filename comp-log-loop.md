@@ -30,6 +30,7 @@ This operator tests at least one condition.
 This operator takes a single Boolean value and invert it.
 
  ![not](images/not.png)
+ 
 | boolean | result|
 | ---  | ---|
 | !true |false |
@@ -66,7 +67,7 @@ statements in the subsequent code block should run.
 The result will be:
 
  ![result](images/result.png)
- 
+
 When the loop has finished, the interpreter goes to the next line of code.
 
 
