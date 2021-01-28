@@ -30,9 +30,9 @@ This operator tests at least one condition.
 This operator takes a single Boolean value and invert it.
 
  ![not](images/not.png)
- 
+
 | boolean | result|
-| ---  | ---|
+| ---  | --- |
 | !true |false |
 | !false |true |
 
