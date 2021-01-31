@@ -37,7 +37,7 @@ css.
 | Selector | Meaning | example |
 | ---  | --- | ----------- |
 | Universal Selector | Applies to all elements in the document | * {} Targets all elements on the page |
-| Type Selector | Matches element names | h1, h2, h3 {} Targets the <h1>, <h2> and <h3>
+| Type Selector | Matches element names | h1, h2, h3 \{\} Targets the \< h1 \> \< h2 \> and \< h3 \>
 elements | Class Selector | Matches an element whose
 class attribute has a value that
 matches the one specified after
