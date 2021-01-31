@@ -19,7 +19,7 @@ browser where to find the CSS
 file used to style the page.
 
 
-Using Internal CSS
+# Using Internal CSS
 
 ## \<style\>
 You can also include CSS rules within an HTML page by placing
@@ -31,29 +31,23 @@ the type attribute to indicate
 that the styles are specified in
 CSS. The value should be text/
 css.
-/*
-| Selector | Meaning |  |
+
+## CSS Selectors:
+
+| Selector | Meaning | example |
 | ---  | --- | ----------- |
-| Universal Selector | Applies to all elements in the
-document | * {}
-Targets all elements on the page |
-| Type Selector | Matches element names | h1, h2, h3 {}
-Targets the <h1>, <h2> and <h3>
+| Universal Selector | Applies to all elements in the document | * {} Targets all elements on the page |
+| Type Selector | Matches element names | h1, h2, h3 {} Targets the <h1>, <h2> and <h3>
 elements | Class Selector | Matches an element whose
 class attribute has a value that
 matches the one specified after
-the period (or full stop) symbol |.note {}
+the period (or full stop) symbol | .note {}
 Targets any element whose class
 attribute has a value of note
-p.note {}
-Targets only <p> elements
-whose class attribute has a
-value of note|
-|ID Selector|Matches an element whose
+ | ID Selector | Matches an element whose
 id attribute has a value that
 matches the one specified after
-the pound or hash symbol|#introduction {}
+the pound or hash symbol | #introduction {}
 Targets the element whose
 id attribute has a value of
-introduction|
-*/
+introduction |
