@@ -8,6 +8,30 @@ h1, h2, h3 {
 font-family: Arial;
 color: yellow;}
 
+
+
+Using External CSS
+
+<link> external-css.html HTML
+The <link> element can be used
+in an HTML document to tell the
+browser where to find the CSS
+file used to style the page.
+
+
+Using Internal CSS
+
+## \<style\>
+You can also include CSS rules within an HTML page by placing
+them inside a <style> element,
+which usually sits inside the
+<head> element of the page.
+The <style> element should use
+the type attribute to indicate
+that the styles are specified in
+CSS. The value should be text/
+css.
+/*
 | Selector | Meaning |  |
 | ---  | --- | ----------- |
 | Universal Selector | Applies to all elements in the
@@ -32,3 +56,4 @@ the pound or hash symbol|#introduction {}
 Targets the element whose
 id attribute has a value of
 introduction|
+*/
