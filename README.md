@@ -8,7 +8,6 @@
 * CSS
 * JS
 
-
 #### *what we learned in 101 & 102*
 
 ##### Table of content:
