@@ -1,12 +1,16 @@
+# Code 201 Reading Notes
 
-My name is Areen saleh jaradat.
-I'm 24 year,I was born in irbid,I studied computer engineering in Jordan university of science and technology, I learned many languages like C#, C++ and JAVA, after graduated I learned a course of CCNA, and some online courses Like python.
+#### this website is for 201code level
+#### front-end technologies(html,css & J.S)
 
-Table of content:
+# Table of content:
 
 
 | files | Link |
 | ---  | --- | 
-| Markdown.md | https://areenjaradat.github.io/reading-notes/Markdown | 
-| mindset | https://areenjaradat.github.io/reading-notes/mindset |
-| Remotes | https://areenjaradat.github.io/reading-notes/Remotes |
+| Markdown.md |[Markdown page ](https://areenjaradat.github.io/reading-notes/Markdown)  | 
+| mindset | [mindset page ](https://areenjaradat.github.io/reading-notes/mindset)   |
+|Git Remotes | [Git Remotes page ](https://areenjaradat.github.io/reading-notes/Remotes) |
+| JavaScriptjQuery | [JavaScriptjQuery page ](https://areenjaradat.github.io/reading-notes/JavaScriptjQuery)  |
+| Markup-layout | [Markup-layout page ](https://areenjaradat.github.io/reading-notes/Markup-layout)  |
+| comparisom-logical-loop in JS | [comparisom-logical-loop in JS ](https://areenjaradat.github.io/reading-notes/comp-log-loop)  |
