@@ -62,7 +62,7 @@ Because there have been several versions of HTML, each web page should begin wit
 
 #### Comments in HTML
 
-![comment](images/comment.png)
+![comment](images/comment.jpg)
 
 #### ID Attribute
 Every HTML element can carry the id attribute. It is used to uniquely identify that element from other elements on the page. Its value should start with a letter or an underscore (not a number or any other character).
