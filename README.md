@@ -1,10 +1,17 @@
 # Code 201 Reading Notes
 
 #### this website is for 201code level
-#### front-end technologies(html,css & J.S)
+#### front-end technologies
 
-# Table of content:
+##### what we will learn :
+* HTML
+* CSS
+* JS
 
+
+#### *what we learned in 101 & 102*
+
+##### Table of content:
 
 | files | Link |
 | ---  | --- | 
