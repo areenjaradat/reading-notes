@@ -7,6 +7,25 @@
 * HTML
 * CSS
 * JS
+Code 201 Reading Notes
+
+| files | Link |
+| ---  | --- | 
+|   |     | 
+|   |     | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
+| |  | 
 
 #### *what we learned in 101 & 102*
 
