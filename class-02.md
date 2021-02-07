@@ -107,7 +107,7 @@ Matches an element whose class attribute has a value that matches the one specif
 
 ###### 4. ID Selector
 
-![styles_ID](images/styles_ID.png)
+![styles_ID](images/styles_ID.jpg)
 
 # JAVASCRIPT
 
