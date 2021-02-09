@@ -51,3 +51,32 @@ now add child folder < a href="music/listings html">Listings< /a>
  yes you can 
 
  by add id to the tag you want then link whenever you want <a href="#add thte id here">
+
+ # LAYOUT
+
+ now you can control where each element sits
+on a page and how to create attractive
+page layouts
+
+#### Block-level elements
+start on a new line
+Examples include:
+< h1 > < p > < ul > < li >
+
+#### Inline elements
+flow in between
+surrounding text
+Examples include:
+< img > < b> < i>
+
+you can contain more than one element in html by tag call < div >you can put elements here</ div>
+
+
+#### CSS allow you to control the layout of a page: normal
+
+1. normal flow(position:static)
+2.  Relative position (position:relative)
+3. Absolute Positioning(position:absolute)
+4. Fixed Positioning(position:Fixed)
+5. Overlapping Elements(z-index)
+6. Fl oating Elements(float)
