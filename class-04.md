@@ -80,3 +80,32 @@ you can contain more than one element in html by tag call < div >you can put ele
 4. Fixed Positioning(position:Fixed)
 5. Overlapping Elements(z-index)
 6. Fl oating Elements(float)
+
+# JAVASCRIPT
+
+## FUNCTIONS,METHOD & OBJECTS
+FUNCTIONS & OBJECTS 
+Functions consist of a series of statements  that have been grouped together because they perform a specific task.
+A method is the same as function, except methods are created inside (and are part of) an object.
+
+BUILT-IN METHODS OBJECTS
+ The browser comes with a set of objects that act like a toolkit for creating interactive web pages.
+
+ declaring function
+ 
+ ![fun](images04/fun.png)
+
+ calling function by sayhello();
+
+ you can return value by (return value;).and want to send a values when you call the fun sayhello("hi","hello")
+
+ there is two kind of function
+ 1. FUNCTION DECLARATION
+ 2. FUNCTION EXPRESSION
+
+ ## WHAT IS AN OBJECT?
+ Objects group together a set of variables and functions to create a model.
+  ![obj](images04/obj.png)
+
+  calling object :
+    ![callobj](images04/callobj.png)
