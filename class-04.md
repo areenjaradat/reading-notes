@@ -46,11 +46,11 @@ now add child folder < a href="music/listings html">Listings< /a>
  ##### if you want make the link open in new tab you can add attribute  target:"_blank"
 
 
- #### Do youthink you can move to top page or bottom page 
+ #### Do you think you can move to top page or bottom page 
 
  yes you can 
 
- by add id to the tag you want then link whenever you want <a href="#add thte id here">
+ by add id to the tag you want then link whenever you want < a href ="#add thte id here" >
 
  # LAYOUT
 
