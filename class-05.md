@@ -22,3 +22,15 @@ The < figcaption> element has been added to HTML5 in order to allow web page aut
 ![image](image05/figure.png)
 
 
+## color
+
+you add colors to the bakground and to specify tag and to fonts
+
+You can specify any color in CSS in one of three ways:
+1. rgb values
+2. hex codes
+3. color names
+
+* Background Color
+* CSS3:Opacity
+* CSS3:HSL & HSLA
