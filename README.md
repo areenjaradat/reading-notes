@@ -15,7 +15,7 @@ Code 201 Reading Notes
 |  class-02 |  [class-02 ](https://areenjaradat.github.io/reading-notes/class-02)   | 
 | class-03  |  [class-03 ](https://areenjaradat.github.io/reading-notes/class-03)   | 
 | class-04  |  [class-04 ](https://areenjaradat.github.io/reading-notes/class-04)   | 
-| |  | 
+| class-05  |  [class-05 ](https://areenjaradat.github.io/reading-notes/class-05)   | 
 | |  | 
 | |  | 
 | |  | 
