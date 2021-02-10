@@ -34,3 +34,14 @@ You can specify any color in CSS in one of three ways:
 * Background Color
 * CSS3:Opacity
 * CSS3:HSL & HSLA
+
+## Text
+
+you can  control styling of text by
+#### 1. font family
+The font-family property allows you to specify the typeface that should be used for any text inside the element(s) to which a CSS rule applies.
+#### 2. font-size
+The font-size property enables you to specify a size for the font. There are several ways to specify the size of a font.
+#### 3. @font-face
+@font-face allows you to use a font, even if it is not installed on the computer of the person browsing, by allowing you to specify a path to a copy of the font.
+#### 4. font-style
