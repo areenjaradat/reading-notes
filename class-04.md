@@ -1,10 +1,10 @@
 # Reading of today
 
-# HTML
+## HTML
 
-#### What if you want to add a link to your web page and how you can add it by html
+## What if you want to add a link to your web page and how you can add it by html
 
-##### lets learn now how to add links
+### lets learn now how to add links
 
 Links are created using the < a > element. Users can click on anything
 between the opening < a > tag and the closing < /a > tag.
@@ -52,13 +52,13 @@ yes you can
 
 by add id to the tag you want then link whenever you want < a href ="#add thte id here" >
 
-# LAYOUT
+## LAYOUT
 
 now you can control where each element sits
 on a page and how to create attractive
 page layouts
 
-#### Block-level elements
+### Block-level elements
 
 start on a new line
 Examples include:
@@ -82,7 +82,7 @@ you can contain more than one element in html by tag call < div >you can put ele
 5. Overlapping Elements(z-index)
 6. Fl oating Elements(float)
 
-# JAVASCRIPT
+## JAVASCRIPT
 
 ## FUNCTIONS,METHOD & OBJECTS
 
@@ -103,8 +103,8 @@ you can return value by (return value;).and want to send a values when you call 
 
 there is two kind of function
 
-1.  FUNCTION DECLARATION
-2.  FUNCTION EXPRESSION
+1. FUNCTION DECLARATION
+2. FUNCTION EXPRESSION
 
 ## WHAT IS AN OBJECT?
 
@@ -114,7 +114,7 @@ Objects group together a set of variables and functions to create a model.
 calling object :
 ![callobj](images04/callobj.png)
 
-# Pair Programming
+## Pair Programming
 
 How does pair programming work?
 Wpair programming commonly involves two roles: the Driver and the Navigator. The Driver is the programmer who is typing and the only one whose hands are on the keyboard.the Driver manages the text editor, switching files, version control, and—of course writing—code. The Navigator uses their words to guide the Driver but does not provide any direct input to the computer. The Navigator thinks about the big picture, what comes next, how an algorithm might be converted in to code, while scanning for typos or bugs. The Navigator might also utilize their computer as a second screen to look up solutions and documentation, but should not be writing any code.
