@@ -15,7 +15,7 @@ first we have HTML5 STORAGE :it’s a way for web pages to store named key/value
 7. ANDROID2.0+
 you can check youe local storage in javascript code.
 
-![checkStorage](imagesclass13/Storagecheck.png)
+![checkStorage](imagesclass13/storagecheck.png)
 
 ### USING HTML5 STORAGE
 
