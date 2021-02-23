@@ -26,7 +26,7 @@ Code 201 Reading Notes
 | class-11  |  [class-11](https://areenjaradat.github.io/reading-notes/class-11)   |
 | class-12  |  [class-12](https://areenjaradat.github.io/reading-notes/class-12)   |
 | class-13  |  [class-13](https://areenjaradat.github.io/reading-notes/class-13)   |
-| |  |
+| class-14  |  [class-14](https://areenjaradat.github.io/reading-notes/class-14)   |
 | |  |
 
 #### *what we learned in 101 & 102*
