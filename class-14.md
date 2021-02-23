@@ -5,8 +5,9 @@ employee performance optimization — isn’t enough. As commerce becomes increa
 Studies show that people working in teams tend to achieve better results and report higher job satisfaction.
 
 Five years ago, Google — one of the most public proselytizers of how studying workers can transform productivity — became focused on building the perfect team.
-
+![image.jpg](imagesclass14/image.jpg)
 After looking at over a hundred groups for more than a year, Project Aristotle researchers concluded that understanding and influencing group norms were the keys to improving Google’s teams.
+![image](imagesclass14/download.jpg)
 
 ## CSS Transforms
 
@@ -32,6 +33,8 @@ The translate value works a bit like that of relative positioning, pushing and p
 ## 2D Skew
 
 The last transform value in the group, skew, is used to distort elements on the horizontal axis, vertical axis, or both.like :transform: skewX(5deg);
+
+![css3](imagesclass14/css3.png)
 
 ## 3D Transforms
 
