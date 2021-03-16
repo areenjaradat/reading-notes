@@ -48,9 +48,9 @@ With CSS3 transitions you have the potential to alter the appearance and behavio
 
 Transitions do a great job of building out visual interactions from one state to another, and are perfect for these kinds of single state changes. However, when more control is required, transitions need to have multiple states. In return, this is where animations pick up where transitions leave off.
 
-
 there is alot of way you can  use in  CSS3 TRANSITIONS THAT WILL WOW YOUR USERS like :
-1. fade in 
+
+1. fade in
 2. change color
 3. Grow & shrink
 4. rotate elements

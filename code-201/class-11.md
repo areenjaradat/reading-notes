@@ -9,7 +9,6 @@ You can control the size of an image using the width and height properties in CS
 Aligning images using CSS
 by property called floatcan use it to move element to left or right.
 
-
 also you can setthe image as backgroung in the page
 
 ![backgroundImage](imagesclass11/backgroundImage.png)

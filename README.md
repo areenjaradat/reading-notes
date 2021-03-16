@@ -9,7 +9,12 @@
 * HTML
 * CSS
 * JS
+
+Code 401 - Advanced Software Development
+Code 301 - Intermediate Software Development
+
 Code 201 Reading Notes
+Code 201 - Foundations of Software Development
 
 | files | Link |
 | ---  | --- |
@@ -32,6 +37,8 @@ Code 201 Reading Notes
 #### *what we learned in 101 & 102*
 
 ##### Table of content:
+
+Code 102 - Intro to Software Development
 
 | files | Link |
 | ---  | --- |

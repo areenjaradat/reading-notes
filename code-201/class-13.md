@@ -1,6 +1,6 @@
 # THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS
 
-so of course we need storage for our website let's talk about it 
+so of course we need storage for our website let's talk about it
 
 first we have HTML5 STORAGE :it’s a way for web pages to store named key/value pairs locally, within the client web browser.
 

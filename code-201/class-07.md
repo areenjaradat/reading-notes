@@ -76,8 +76,8 @@ var array =[but variable1,variable2,variable3,variable4]
 2. Document object model
 3. Global javascript object(string,number,boolean)
 
-
 ### THE WINDOW OBJECT
+
 | PROPERTY | DESCRIPTION |
 | ---  | --- |
 | window . innerHeight-01  | Height of window (excluding browser chrome/user interface) (in pixels) |
@@ -161,7 +161,6 @@ var array =[but variable1,variable2,variable3,variable4]
 creating instance of data object 
 
 var today=new DATE();
-
 
 | METHOD | DESCRIPTION |
 | ---  | --- |

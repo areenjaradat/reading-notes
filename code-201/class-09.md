@@ -31,7 +31,7 @@ after create element form the create element < input>
 < fieldset>
 You can group related form controls together inside the < fieldset> element. This is particularly helpful for longer forms.
 
-## LIST,TABLE AND FORMS 
+## LIST,TABLE AND FORMS
 
 you can style ordered list and unorderd list.
 list-style-type:
@@ -42,7 +42,7 @@ the following values:
 1. none
 2. disc
 3. circle
-4. square 
+4. square
 
 Ordered Lists
 For an ordered (numbered) list

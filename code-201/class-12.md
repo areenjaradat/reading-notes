@@ -1,7 +1,7 @@
 # CREATE STUNNING ANIMATED CHARTS WITH CHART.JS
 
 best way to display data visually than table is :
-Charts 
+Charts
 
 A great way to get started with charts is with Chart.js, a JavaScript plugin that uses HTML5’s canvas element to draw the graph onto the page.
 
@@ -63,8 +63,8 @@ Sets the style used when filling shapes.
 strokeStyle = color
 Sets the style for shapes' outlines.
 
-
 ## Drawing text
+
 The canvas rendering context provides two methods to render text:
 
 fillText(text, x, y [, maxWidth])

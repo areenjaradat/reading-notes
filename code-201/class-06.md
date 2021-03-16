@@ -1,10 +1,11 @@
 # Understanding The Problem Domain Is The Hardest Part Of Programming
 
 ## Why problem domains are hard?
+
 you can’t really see what you are trying to build very clearly.
 
-
 ### What can you do about it?
+
 If understanding the problem domain is the hardest part of programming and you want to make programming easier, you can do one of two things:
 
 1. Make the problem domain easier
@@ -12,9 +13,8 @@ If understanding the problem domain is the hardest part of programming and you w
 
 you can cutting out cases and narrowing your focus to a particular part of the problem.
 
-
-
 # JAVASCRIPT
+
 ## The Document Object Model (DOM)
 
 is how browsers should create a model of an HTML page and how JavaScript can access and update the contents of a web page while it is in the browser window.
@@ -40,6 +40,7 @@ Accessing and updating the DOM tree involves two steps:
 ![method](imageclass06/method.png)
 
 ### Here you can see four different DOM queries
+
 1. getElementsByTagNam('h1')
 2. getElementsByClassName('hot')
 3. query SelectorA 11 ( ' l i [id] ' )
