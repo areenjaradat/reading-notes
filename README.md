@@ -26,7 +26,7 @@ Code 301 - Intermediate Software Development
 | class-08  |  [class-08](https://areenjaradat.github.io/reading-notes/code-301/class-08)   |
 | class-09  |  [class-09](https://areenjaradat.github.io/reading-notes/code-301/class-09)   |
 | class-10  |  [class-10](https://areenjaradat.github.io/reading-notes/code-301/class-10)   |
-| class-11  |     |
+| class-11  |  [class-11](https://areenjaradat.github.io/reading-notes/code-301/class-11)   |
 | class-12  |     |
 | class-13  |     |
 | class-14  |     |
