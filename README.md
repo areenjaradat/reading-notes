@@ -30,7 +30,7 @@ Code 301 - Intermediate Software Development
 | class-12  |  [class-12](https://areenjaradat.github.io/reading-notes/code-301/class-12)   |
 | class-13  |  [class-13](https://areenjaradat.github.io/reading-notes/code-301/class-13)   |
 | class-14  |  [class-14](https://areenjaradat.github.io/reading-notes/code-301/class-14)   |
-| |  |
+| class-15  |  [class-15](https://areenjaradat.github.io/reading-notes/code-301/class-15)   |
 
 Code 201 Reading Notes
 Code 201 - Foundations of Software Development
