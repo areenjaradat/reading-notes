@@ -1,18 +1,59 @@
-# Code 201 Reading Notes
+# Reading Notes
 
-## this website is for 201code level
+## Code 401 - Advanced Software Development
 
-### front-end technologies
+Advanced Software Development in Full-Stack JavaScript
 
-#### what we will learn:
+| files | Link |
+| ---  | --- |
+| class-00  |  [class-00](https://areenjaradat.github.io/reading-notes/code-401/class-00)   |
+| class-01  |  [class-01](https://areenjaradat.github.io/reading-notes/code-401/class-01)   |
+| class-02  |  [class-02]()   |
+| class-03  |  [class-03]()   |
+| class-04  |  [class-04]()   |
+| class-05  |  [class-05]()   |
+| class-06  |  [class-06]()   |
+| class-07  |  [class-07]()   |
+| class-08  |  [class-08]()   |
+| class-09  |  [class-09]()   |
+| class-10  |  [class-10]()   |
+| class-11  |  [class-11]()   |
+| class-12  |  [class-12]()   |
+| class-13  |  [class-13]()   |
+| class-14  |  [class-14]()   |
+| class-15  |  [class-15]()   |
+| class-16  |  [class-16]()   |
+| class-17  |  [class-17]()   |
+| class-18  |  [class-18]()   |
+| class-19  |  [class-19]()   |
+| class-20  |  [class-20]()   |
+| class-21  |  [class-21]()   |
+| class-22  |  [class-22]()   |
+| class-23  |  [class-23]()   |
+| class-24  |  [class-24]()   |
+| class-25  |  [class-25]()   |
+| class-26  |  [class-26]()   |
+| class-27  |  [class-27]()   |
+| class-28  |  [class-28]()   |
+| class-29  |  [class-29]()   |
+| class-30  |  [class-30]()   |
+| class-31  |  [class-31]()   |
+| class-32  |  [class-32]()   |
+| class-33  |  [class-33]()   |
+| class-34  |  [class-34]()   |
+| class-35  |  [class-35]()   |
+| class-36  |  [class-36]()   |
+| class-37  |  [class-37]()   |
+| class-38  |  [class-38]()   |
+| class-39  |  [class-39]()   |
+| class-40  |  [class-40]()   |
+| class-41  |  [class-41]()   |
+| class-42  |  [class-42]()   |
+| class-43  |  [class-43]()   |
+| class-44  |  [class-44]()   |
+| class-45  |  [class-45]()   |
 
-* HTML
-* CSS
-* JS
-
-Code 401 - Advanced Software Development
-
-Code 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development
 
 | files | Link |
 | ---  | --- |
@@ -35,6 +76,14 @@ Code 301 - Intermediate Software Development
 Code 201 Reading Notes
 Code 201 - Foundations of Software Development
 
+### front-end technologies
+
+#### what we will learn
+
+* HTML
+* CSS
+* JS
+
 | files | Link |
 | ---  | --- |
 | class-01  |  [class-01](https://areenjaradat.github.io/reading-notes/code-201/class-01)   |
@@ -53,9 +102,9 @@ Code 201 - Foundations of Software Development
 | class-14  |  [class-14](https://areenjaradat.github.io/reading-notes/code-201/class-14)   |
 | |  |
 
-#### *what we learned in 101 & 102*
+#### *what we learned in  102*
 
-##### Table of content:
+##### Table of content
 
 Code 102 - Intro to Software Development
 
