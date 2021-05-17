@@ -14,7 +14,7 @@ Advanced Software Development in Full-Stack JavaScript
 | class-05  |  [class-05](https://areenjaradat.github.io/reading-notes/code-401/class-05)   |
 | class-06  |  [class-06](https://areenjaradat.github.io/reading-notes/code-401/class-06)   |
 | class-07  |  [class-07](https://areenjaradat.github.io/reading-notes/code-401/class-07)   |
-| class-08  |  [class-08]()   |
+| class-08  |  [class-08](https://areenjaradat.github.io/reading-notes/code-401/class-08)   |
 | class-09  |  [class-09]()   |
 | class-10  |  [class-10]()   |
 | class-11  |  [class-11]()   |
