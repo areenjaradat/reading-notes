@@ -21,3 +21,25 @@ putting it on a Web server so that it can be used either through the Internet or
 `Server`is a piece of computer hardware or software (computer program) that provides functionality for other programs or devices, called "clients".
 
 `Pub/Sub` Publish/subscribe messaging, or pub/sub messaging, is a form of asynchronous service-to-service communication used in serverless and microservices architectures. In a pub/sub model, any message published to a topic is immediately received by all of the subscribers to the topic.
+
+Virtual Machines what is a virtual machine manager? also called a hypervisor it's a type of software that allows us to run an operating system within another operating system inception
+
+example :
+
+* virtual box
+
+* vm ware
+
+* Virtualization : uses software to create an abstraction layer over computer hardware that allows the hardware elements of a single computer—processors, memory, storage and more—to be divided into multiple virtual computers, commonly called virtual machines (VMs). Each VM runs its own operating system (OS) and behaves like an independent computer, even though it is running on just a portion of the actual underlying computer hardware.
+
+* cloud is a metaphor for a global network of remote servers that operates as a single ecosystem, commonly associated with the Internet.
+
+  * Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user. The term is generally used to describe data centers available to many users over the Internet.
+
+* AWS
+
+Cloud computing gives you access to servers, storage, databases, and a broad set of application services over the Internet. A cloud services provider such as Amazon Web Services, owns and maintains the network-connected hardware required for these application services, while you provision and use what you need via a web application.
+
+Types of Cloud Computing. Cloud computing has three main types that are commonly referred to as Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). .
+
+Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure are among the best players in the cloud computing world.
