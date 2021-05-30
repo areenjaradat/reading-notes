@@ -22,8 +22,8 @@ Advanced Software Development in Full-Stack JavaScript
 | class-13  |  [class-13](https://areenjaradat.github.io/reading-notes/code-401/class-13)   |
 | class-14  |  [class-14](https://areenjaradat.github.io/reading-notes/code-401/class-14)   |
 | class-15  |  [class-15](https://areenjaradat.github.io/reading-notes/code-401/class-15)   |
-| class-16  |  [class-16]()   |
-| class-17  |  [class-17]()   |
+| class-16  |  [class-16](https://areenjaradat.github.io/reading-notes/code-401/class-16)   |
+| class-17  |  [class-17](https://areenjaradat.github.io/reading-notes/code-401/class-17)   |
 | class-18  |  [class-18]()   |
 | class-19  |  [class-19]()   |
 | class-20  |  [class-20]()   |
