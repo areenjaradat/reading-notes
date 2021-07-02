@@ -41,6 +41,7 @@ Advanced Software Development in Full-Stack JavaScript
 | class-38  |  [class-38](https://areenjaradat.github.io/reading-notes/code-401/class-38)   |
 | class-39  |  [class-39](https://areenjaradat.github.io/reading-notes/code-401/class-39)   |
 | class-41  |  [class-41](https://areenjaradat.github.io/reading-notes/code-401/class-41)   |
+| class-42  |  [class-42](https://areenjaradat.github.io/reading-notes/code-401/class-42)   |
 
 ## Code 301 - Intermediate Software Development
 
